@@ -1,4 +1,4 @@
-.tealeaf {
+.treatleaf {
   width:var(--w);
   height:var(--h);
   border:var(--br1);
@@ -175,7 +175,7 @@
   font: 8px verdana;
   color:#aaa;
 }
-.tealeaf + br + .ncredit {
+.treatleaf + br + .ncredit {
   margin-top: -15px;
 }
 .ncredit:before {
